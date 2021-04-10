@@ -61,6 +61,10 @@ html {
   cursor: pointer;
 }
 
+#logo a{
+  box-shadow: 1px 1px 5px 0px black, -1px -1px 5px 0px black;
+  color: #00000000;
+}
 
 #home #navbar {
   background-color: #363636;
