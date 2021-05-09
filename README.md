@@ -1,4 +1,4 @@
-# library_website
+# A Library website
 A simple responsive Website project for a public library.
 
 #### Want to preview in your browser?
